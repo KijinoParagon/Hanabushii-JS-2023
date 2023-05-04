@@ -1,0 +1,21 @@
+JS Files:
+
+	-Startup
+		-Setup initial settings
+		-Call the window
+		-Start the game loop
+	-Create the html window
+	-Run the game loop
+	-Render/Visuals
+	-Handle inputs
+
+
+	-Physics:
+		-Collision
+			-Should be able to tell direction
+			
+		-Entity Objects
+			-EntityClasses
+			-Hitboxes
+				-Top, left, bottom, right
+			-
